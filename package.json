@@ -1,0 +1,15 @@
+{
+  "name": "ssd-ffpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mail.sangram.desai@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.0",
+    "moment": "^2.17.1"
+  }
+}
